@@ -1,14 +1,11 @@
-: root {
-  --white-text: rgba (255, 255, 255, 1);
-
-  --grey-text: rgba (157, 164, 189, 1);
-  --grey-text-op60: rgba (157, 164, 189, 0.6);
-  --grey-text-op40: rgba (157, 164, 189, 0.4);
-
-  -графит : ргба (48, 48, 48, 1);
-  -графит-светлый : РГБА (85, 85, 85, 1);
-
-  -оранжевый : rgba (255, 108, 0, 1);
-
-  -обратно-светло-серый : rgba (247, 247, 247, 1);
+:root {
+  --white-text: rgba(255, 255, 255, 1);
+  --black-gray-text: rgba(33, 33, 33, 1);
+  --grey-text: rgba(117, 117, 117, 1);
+  --grey-footer: rgba(255, 255, 255, 0.6);
+  --backgraund: rgba(47, 48, 58, 1);
+  --blue-text: rgba(33, 150, 243, 1);
+  --black-text: rgba(0, 0, 0, 1);
+  --background-team: rgba(245, 244, 250, 1);
+  --background-card: rgba(238, 238, 238, 1);
 }
